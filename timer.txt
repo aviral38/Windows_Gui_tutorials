@@ -1,0 +1,1 @@
+in timer Gui stop Button is also the resume button so press one time to stop and then press again to start timer from where you stopped only then you would be able to see lap time
